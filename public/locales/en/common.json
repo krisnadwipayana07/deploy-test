@@ -1,0 +1,94 @@
+{
+  "home": {
+    "welcome": "Hello, Welcome to",
+    "experience": "Your Experience start from here, let's get your tickets now!",
+    "search": "POPULER SEARCH",
+    "sale": "Weekly Sale",
+    "form-name": "Name of Wisata Places",
+    "form-placeholder": "insert wisata places name",
+    "form-button": "SEARCH"
+  },
+  "detail": {
+    "search-header": "Search Result: Wisata Places",
+    "form-name": "Name of Wisata Places",
+    "form-placeholder": "insert wisata places name",
+    "form-button": "SEARCH",
+    "description": "DESCRIPTION",
+    "desc-header": "Wisata Places Description",
+    "tiket": {
+      "price": "Started From",
+      "button": "FIND TICKETS"
+    },
+    "location": "LOCATION",
+    "loc-header": "Wisata Places Location",
+    "tickets": "TICKETS",
+    "tix-header": "Tickets Choice",
+    "tix-form": {
+      "title": "Gender and Country Detail (optional)",
+      "form-1": "Boys",
+      "form-2": "Girl",
+      "form-3": "Country",
+      "button": "CHECKOUT"
+    }
+  },
+  "login": {
+    "content": "Wellcome, Please login to get easy access",
+    "header": "Welcome to ATIX BALI! Please insert your email and password to login into system",
+    "register": "Not have account?"
+  },
+  "register": {
+    "content": "Please register to enjoy easy access",
+    "login": "Already have account?",
+    "form": {
+      "form-1": "Password Confirmation",
+      "form-2": "Phone"
+    }
+  },
+  "card": {
+    "detail": "SEE DETAIL"
+  },
+  "payment": {
+    "header": "Payment Detail",
+    "form": {
+      "form-1": "Name",
+      "form-2": "Date Visited",
+      "form-3": "Payment",
+      "button": "Paid"
+    },
+    "header-2": "Detail Tickets"
+  },
+  "trx-detail": {
+    "sec-1": {
+      "header": "Transaction Total",
+      "col-1": "Final Price"
+    },
+    "sec-2": {
+      "header": "Payment Detail",
+      "col-1": "Name",
+      "col-2": "Phone",
+      "text": "Please check your email cause invoice and ticket send via email"
+    }
+  },
+  "profile": {
+    "form-1": {
+      "name": "Name",
+      "placeholder": "insert your name"
+    },
+    "form-2": {
+      "name": "Phone Number",
+      "placeholder": "insert your phone number"
+    },
+    "form-3": {
+      "name": "Change Password",
+      "placeholder": "insert new password"
+    },
+    "form-4": {
+      "name": "Password Confirmation",
+      "placeholder": "insert confirmation password"
+    },
+    "form-5": {
+      "name": "Email",
+      "placeholder": "insert your email"
+    }
+  }
+}
