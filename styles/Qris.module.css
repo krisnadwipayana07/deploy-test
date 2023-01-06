@@ -1,0 +1,10 @@
+.top_qris {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.bottom_qris {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}

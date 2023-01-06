@@ -1,0 +1,91 @@
+{
+  "home": {
+    "welcome": "Halo, Selamat Datang di",
+    "experience": "Pengalaman tak terlupakan dimulai dari sini, ayo pesan tiketmu sekarang!",
+    "search": "PENCARIAN TERPOPULER",
+    "sale": "Penawaran Mingguan",
+    "form-name": "Nama Tempat Wisata",
+    "form-placeholder": "masukan nama tempat wisata",
+    "form-button": "CARI"
+  },
+  "detail": {
+    "search-header": "Hasil Pencarian: Tempat Wisata",
+    "form-name": "Nama Tempat Wisata",
+    "form-placeholder": "masukan nama tempat wisata",
+    "form-button": "CARI",
+    "description": "DESKRIPSI",
+    "desc-header": "Deskripsi Tempat Wisata",
+    "tiket": {
+      "price": "Mulai Dari",
+      "button": "CARI TIKET"
+    },
+    "location": "LOKASI",
+    "loc-header": "Lokasi Tempat Wisata",
+    "tickets": "TIKET",
+    "tix-header": "Pilihan Tiket",
+    "tix-form": {
+      "title": "Detail Negara dan Jenis Kelamin (optional)",
+      "form-1": "Laki Laki",
+      "form-2": "Perempuan",
+      "form-3": "Negara",
+      "button": "BUAT PESANAN"
+    }
+  },
+  "login": {
+    "content": "Selamat datang, silahkan log in untuk mendapatkan kemudahan akses.",
+    "header": "Selamat datang di ATIX Bali! Mohon mengisi email dan password anda untuk log in.",
+    "register": "Belum mempunyai akun?"
+  },
+  "register": {
+    "content": "Silahkan register untuk menikmati kemudahan dalam bertransaksi",
+    "login": "Sudah memiliki akun?",
+    "form": {
+      "form-1": "Konfirmasi Password",
+      "form-2": "No Telp"
+    }
+  },
+  "card": {
+    "detail": "LIHAT DETAIL"
+  },
+  "payment": {
+    "header": "Detail Pemesan",
+    "form": {
+      "form-1": "Nama",
+      "form-2": "Tanggal Berkunjung",
+      "form-3": "Pembayaran",
+      "button": "Bayar"
+    },
+    "header-2": "Rincian Tiket"
+  },
+  "trx-detail": {
+    "sec-1": {
+      "header": "Total Transaksi",
+      "col-1": "Total Harga"
+    },
+    "sec-2": {
+      "header": "Detail Pembeli",
+      "col-1": "Nama",
+      "col-2": "No HP",
+      "text": "Mohon cek email karena tagihan dan tiket dikirimkan via email"
+    }
+  },
+  "profile": {
+    "form-1": {
+      "name": "Nama",
+      "placeholder": "masukan nama anda"
+    },
+    "form-2": { "name": "No Telp", "placeholder": "masukan no telp anda" },
+    "form-3": {
+      "name": "Ganti Password",
+      "placeholder": "masukan password baru"
+    },
+    "form-4": {
+      "name": "Konfirmasi Password",
+      "placeholder": "masukan konfirmasi password"
+    },
+    "form-5": {
+      "name": "Email",
+      "placeholder": "masukan email anda"
+    }
+  }
+}
